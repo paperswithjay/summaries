@@ -1,2 +1,2 @@
 # summaries
-Single page summaries of popular ML papers
+Single page summary of popular ML papers.
